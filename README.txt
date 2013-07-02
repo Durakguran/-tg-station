@@ -4,6 +4,8 @@ Website:http://nanotrasen.com
 Code: https://github.com/tgstation/-tg-station
 IRC: irc://irc.rizon.net/coderbus
 
+This Copy of TG Is For Reference and for Merging with my Version OF Bay BEF. going to be modified a little a possible if not at all.
+
 ================================================================================
 DOWNLOADING
 ================================================================================
